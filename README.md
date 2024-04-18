@@ -1,5 +1,5 @@
 [<-- BACK](https://github.com/bkieselEducational/OAuth-Central)
-# OAuth-Client-Application-Authorization
+# OAuth Client Application Authorization
 ## OAuth 1.0a
 
 ## OAuth 2.0
